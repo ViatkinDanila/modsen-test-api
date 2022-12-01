@@ -9,6 +9,7 @@ D:\work\projects\test\schedule\core\src\main\java\com\modsen\core\repository\Abs
 D:\work\projects\test\schedule\core\src\main\java\com\modsen\core\repository\impl\AbstractRepositoryImpl.java
 D:\work\projects\test\schedule\core\src\main\java\com\modsen\core\service\exception\InvalidMeetingException.java
 D:\work\projects\test\schedule\core\src\main\java\com\modsen\core\repository\sort\SortParams.java
+D:\work\projects\test\schedule\core\src\main\java\com\modsen\core\constant\database\ColumnConstant.java
 D:\work\projects\test\schedule\core\src\main\java\com\modsen\core\repository\impl\MeetingRepositoryImpl.java
 D:\work\projects\test\schedule\core\src\main\java\com\modsen\core\service\logic\MeetingService.java
 D:\work\projects\test\schedule\core\src\main\java\com\modsen\core\model\dto\converter\Converter.java

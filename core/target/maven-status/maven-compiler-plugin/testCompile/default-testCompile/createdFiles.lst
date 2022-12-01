@@ -1,0 +1,3 @@
+com\modsen\test\repository\MeetingRepositoryTest.class
+com\modsen\test\config\JpaEmbeddedDBConfig.class
+com\modsen\test\service\MeetingServiceTest.class

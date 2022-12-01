@@ -15,6 +15,7 @@ com\modsen\core\service\validator\MeetingValidator.class
 com\modsen\core\service\validator\ParamsValidator.class
 com\modsen\core\model\dto\MeetingDto.class
 com\modsen\core\service\exception\InvalidMeetingException.class
+com\modsen\core\constant\database\ColumnConstant.class
 com\modsen\core\repository\AbstractRepository.class
 com\modsen\core\repository\MeetingRepository.class
 com\modsen\core\service\exception\InvalidParamException.class
